@@ -1,81 +1,42 @@
-# 👋 Hola, soy Rodrigo Imeri
+<!-- ======================= HEADER ======================= -->
 
-### 💻 Estudiante de Ingeniería en Sistemas | Desarrollador en formación | Creador de proyectos
+<div align="center">
 
-¡Bienvenido a mi perfil de GitHub! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rodrigo%20Imeri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Creator&descAlignY=55&descSize=20"/>
 
-Soy estudiante de **Ingeniería en Sistemas** y me apasiona la tecnología, el desarrollo de software y la creación de proyectos que resuelvan problemas reales.
+</div>
 
-Actualmente estoy aprendiendo, experimentando y construyendo proyectos mientras sigo desarrollando mis habilidades como programador.
+<!-- ======================= TYPING ======================= -->
 
----
+<div align="center">
 
-## 👨‍💻 Sobre mí
+<a href="https://github.com/Rodrxx-264">
 
-- 🎓 Estudiante de **Ingeniería en Sistemas**
-- 💻 Apasionado por el desarrollo de software y tecnologías web
-- 🚀 Me gusta aprender construyendo proyectos reales
-- 🧠 Siempre explorando nuevas tecnologías y herramientas
-- 📱 Interesado en desarrollo web y aplicaciones
-- 🎨 También me gusta el diseño y la creación de interfaces
-- 🇬🇹 Guatemala
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Rodrigo+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+%F0%9F%92%BB;Desarrollador+en+formaci%C3%B3n+%F0%9F%9A%80;Construyendo+ideas+que+se+convierten+en+proyectos+%F0%9F%92%A1;Siempre+aprendiendo+algo+nuevo+%F0%9F%A7%A0"/>
 
-> Mi objetivo es seguir aprendiendo, construir proyectos cada vez mejores y convertir ideas en productos funcionales.
+</a>
 
----
+<br>
 
-## 🛠️ Tecnologías
+<img src="https://komarev.com/ghpvc/?username=Rodrxx-264&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
 
-### Lenguajes
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks y tecnologías
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Proyectos destacados
+# 👨‍💻 Sobre mí
 
-### 🛒 Mercadito
-
-Aplicación enfocada en facilitar la organización de las compras del hogar.
-
-**Características principales:**
-
-- 📝 Creación de listas de compras
-- 💰 Control de presupuesto
-- 🛍️ Registro de productos y compras
-- 📱 Diseño enfocado en dispositivos móviles
-- ☁️ Sincronización de información
-- 🔐 Sistema de autenticación
-
-**Tecnologías:**
-
-`React` `JavaScript` `Supabase`
-
-> 🚧 Proyecto en desarrollo.
-
----
-
-## 📚 Actualmente aprendiendo
-
-```text
-▰ Desarrollo Web
-▰ JavaScript
-▰ React
-▰ Bases de datos
-▰ Desarrollo de aplicaciones
-▰ Git y GitHub
-▰ Arquitectura de software
+```javascript
+const rodrigo = {
+    name: "Rodrigo Imeri",
+    location: "Guatemala 🇬🇹",
+    education: "Ingeniería en Sistemas",
+    role: "Estudiante / Developer",
+    passion: [
+        "Software",
+        "Web Development",
+        "Technology",
+        "Design"
+    ],
+    mindset: "Learn → Build → Break → Fix → Improve 🚀"
+};
